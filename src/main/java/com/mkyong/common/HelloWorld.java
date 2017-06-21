@@ -1,7 +1,7 @@
 package com.mkyong.common;
 
 /**
- * Hello world!my name is ranjith
+ * Hello world!my name is ranjith kumar
  *
  */
 public class HelloWorld 
